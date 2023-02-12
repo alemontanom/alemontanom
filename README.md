@@ -4,6 +4,7 @@ I'm currently studying my Bachelor in Applied Mathematics.
 - My biggest interest lays in sustainability, would love to work towards the finding of sustainable solutions for urban development and social inequalities. 
 - email: alemontanom@gmail.com
 - Pronouns: she/her
+- I have worked with Python, SQL, C#, Java, Javascript
 <!--
 **alemontanom/alemontanom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
