@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi :) I'm currently studying my Bachelor in Applied Mathematics.
+I'm currently studying my Bachelor in Applied Mathematics.
 - I'm open to work part-time and/or full-time throughout the summer :) 
 - My biggest interest lays in sustainability, would love to work towards the finding of sustainable solutions for urban development and social inequalities. 
 - email: alemontanom@gmail.com
